@@ -80,3 +80,12 @@ G:\DSi\ASPDotNET\ToDo\ToDo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 G:\DSi\ASPDotNET\ToDo\ToDo\obj\Debug\ToDo.csprojResolveAssemblyReference.cache
 G:\DSi\ASPDotNET\ToDo\ToDo\obj\Debug\ToDo.dll
 G:\DSi\ASPDotNET\ToDo\ToDo\obj\Debug\ToDo.pdb
+G:\DSi\ASPDotNET\ToDo\ToDo\bin\BLL.dll
+G:\DSi\ASPDotNET\ToDo\ToDo\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\DSi\ASPDotNET\ToDo\ToDo\bin\Unity.Abstractions.dll
+G:\DSi\ASPDotNET\ToDo\ToDo\bin\Unity.Container.dll
+G:\DSi\ASPDotNET\ToDo\ToDo\bin\Unity.Mvc5.dll
+G:\DSi\ASPDotNET\ToDo\ToDo\bin\BLL.pdb
+G:\DSi\ASPDotNET\ToDo\ToDo\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\DSi\ASPDotNET\ToDo\ToDo\bin\Unity.Abstractions.pdb
+G:\DSi\ASPDotNET\ToDo\ToDo\bin\Unity.Container.pdb

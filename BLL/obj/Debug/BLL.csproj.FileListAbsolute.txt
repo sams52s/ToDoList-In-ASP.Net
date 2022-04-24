@@ -1,0 +1,5 @@
+G:\DSi\ASPDotNET\ToDo\BLL\bin\Debug\BLL.dll
+G:\DSi\ASPDotNET\ToDo\BLL\bin\Debug\BLL.pdb
+G:\DSi\ASPDotNET\ToDo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\DSi\ASPDotNET\ToDo\BLL\obj\Debug\BLL.dll
+G:\DSi\ASPDotNET\ToDo\BLL\obj\Debug\BLL.pdb
